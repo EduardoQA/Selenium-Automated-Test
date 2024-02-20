@@ -1,7 +1,7 @@
 # Running tests in parallel using Selenium #
 
 
-## Automation of all tests of the Sauce Labs Sample project using selenium and used mochawesome to generate more intuitive and organized bug reports
+### Automation of all tests of the Sauce Labs Sample project using selenium and used mochawesome to generate more intuitive and organized bug reports
 
 
 
