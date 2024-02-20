@@ -1,7 +1,13 @@
 # Running tests in parallel using Selenium #
 
 
-In these automations with selenium I added 5 tasks in two files to run in parallel , make 5 assertions with .should() from the chai library, one being negative and finally I close the website. In the end I still use mochawesome to generate more detailed and intuitive reports.
+## Automation of all tests of the Sauce Labs Sample project using selenium and used mochawesome to generate more intuitive and organized bug reports
+
+
+
+
+
+https://github.com/EduardoQA/selenium-automated-test/assets/155772308/85fec156-90ef-4e63-9455-4b4bdccf015a
 
 
 
