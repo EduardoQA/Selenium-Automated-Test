@@ -7,9 +7,9 @@ In these automations with selenium I added 5 tasks in two files to run in parall
 
 
 ```
-** Have mocha and mochawesome configured, chai and selenium webdriver installed in the archive folder. **
-# Open the code in VS Code
-# Open the terminal in the file folder and type node test.js
+**  **
+#
+# 
 
 ```
 
