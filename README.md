@@ -13,9 +13,7 @@ https://github.com/EduardoQA/selenium-automated-test/assets/155772308/85fec156-9
 
 
 ```
-**  **
-#
-# 
+
 
 ```
 
